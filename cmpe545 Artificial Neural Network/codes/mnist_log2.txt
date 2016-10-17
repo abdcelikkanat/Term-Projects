@@ -1,0 +1,44 @@
+The total number of training images in the dataset : 50000
+The total number of test images in the dataset : 10000
+Epoch : 1
+Training : 88.644 44322
+Testing : 88.65 8865
+Epoch : 2
+Training : 88.644 44322
+Testing : 88.65 8865
+Epoch : 3
+Training : 88.644 44322
+Testing : 88.65 8865
+Epoch : 4
+Training : 88.644 44322
+Testing : 88.65 8865
+Epoch : 5
+Training : 88.644 44322
+Testing : 88.65 8865
+Epoch : 6
+Training : 88.644 44322
+Testing : 88.65 8865
+Epoch : 7
+Training : 88.644 44322
+Testing : 88.65 8865
+Epoch : 8
+Training : 88.624 44312
+Testing : 88.65 8865
+Epoch : 9
+Training : 50.382 25191
+Testing : 54.18 5418
+Epoch : 10
+Training : 14.896 7448
+Testing : 15.04 1504
+Epoch : 11
+Training : 8.232 4116
+Testing : 7.39 739
+Epoch : 12
+Training : 6.248 3124
+Testing : 5.68 568
+Epoch : 13
+Training : 5.648 2824
+Testing : 4.88 488
+Epoch : 14
+Training : 4.422 2211
+Testing : 4.03 403

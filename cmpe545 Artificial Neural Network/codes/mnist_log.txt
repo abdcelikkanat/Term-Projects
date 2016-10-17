@@ -1,0 +1,210 @@
+The total number of training images in the dataset : 50000
+The total number of test images in the dataset : 10000
+Epoch : 1
+Training : 88.644 44322
+Testing : 88.65 8865
+Epoch : 2
+Training : 88.644 44322
+Testing : 88.65 8865
+Epoch : 3
+Training : 88.644 44322
+Testing : 88.65 8865
+Epoch : 4
+Training : 88.644 44322
+Testing : 88.65 8865
+Epoch : 5
+Training : 88.644 44322
+Testing : 88.65 8865
+Epoch : 6
+Training : 88.644 44322
+Testing : 88.65 8865
+Epoch : 7
+Training : 88.644 44322
+Testing : 88.65 8865
+Epoch : 8
+Training : 88.644 44322
+Testing : 88.65 8865
+Epoch : 9
+Training : 88.644 44322
+Testing : 88.65 8865
+Epoch : 10
+Training : 88.644 44322
+Testing : 88.65 8865
+Epoch : 11
+Training : 88.644 44322
+Testing : 88.65 8865
+Epoch : 12
+Training : 88.644 44322
+Testing : 88.65 8865
+Epoch : 13
+Training : 88.644 44322
+Testing : 88.65 8865
+Epoch : 14
+Training : 88.644 44322
+Testing : 88.65 8865
+Epoch : 15
+Training : 88.644 44322
+Testing : 88.65 8865
+Epoch : 16
+Training : 88.644 44322
+Testing : 88.65 8865
+Epoch : 17
+Training : 88.644 44322
+Testing : 88.65 8865
+Epoch : 18
+Training : 88.644 44322
+Testing : 88.65 8865
+Epoch : 19
+Training : 88.644 44322
+Testing : 88.65 8865
+Epoch : 20
+Training : 88.644 44322
+Testing : 88.65 8865
+Epoch : 21
+Training : 88.644 44322
+Testing : 88.65 8865
+Epoch : 22
+Training : 88.644 44322
+Testing : 88.65 8865
+Epoch : 23
+Training : 88.644 44322
+Testing : 88.65 8865
+Epoch : 24
+Training : 88.644 44322
+Testing : 88.65 8865
+Epoch : 25
+Training : 88.644 44322
+Testing : 88.65 8865
+The total number of training images in the dataset : 50000
+The total number of test images in the dataset : 10000
+Epoch : 1
+Training : 88.644 44322
+Testing : 88.65 8865
+Epoch : 2
+Training : 88.644 44322
+Testing : 88.65 8865
+Epoch : 3
+Training : 88.644 44322
+Testing : 88.65 8865
+Epoch : 4
+Training : 88.644 44322
+Testing : 88.65 8865
+Epoch : 5
+Training : 88.644 44322
+Testing : 88.65 8865
+Epoch : 6
+Training : 88.644 44322
+Testing : 88.65 8865
+Epoch : 7
+Training : 88.644 44322
+Testing : 88.65 8865
+Epoch : 8
+Training : 88.644 44322
+Testing : 88.65 8865
+Epoch : 9
+Training : 88.644 44322
+Testing : 88.65 8865
+Epoch : 10
+Training : 88.644 44322
+Testing : 88.65 8865
+Epoch : 11
+Training : 88.644 44322
+Testing : 88.65 8865
+Epoch : 12
+Training : 88.644 44322
+Testing : 88.65 8865
+The total number of training images in the dataset : 50000
+The total number of test images in the dataset : 10000
+Epoch : 1
+Training : 88.644 44322
+Testing : 88.65 8865
+Epoch : 2
+Training : 88.644 44322
+Testing : 88.65 8865
+Epoch : 3
+Training : 88.644 44322
+Testing : 88.65 8865
+Epoch : 4
+Training : 88.644 44322
+Testing : 88.65 8865
+Epoch : 5
+Training : 27.978 13989
+Testing : 26.36 2636
+Epoch : 6
+Training : 9.34 4670
+Testing : 8.25 825
+Epoch : 7
+Training : 6.25 3125
+Testing : 5.47 547
+Epoch : 8
+Training : 4.822 2411
+Testing : 4.3 430
+Epoch : 9
+Training : 4.154 2077
+Testing : 3.68 368
+Epoch : 10
+Training : 3.664 1832
+Testing : 3.33 333
+Epoch : 11
+Training : 3.292 1646
+Testing : 3.06 306
+Epoch : 12
+Training : 3.036 1518
+Testing : 2.86 286
+Epoch : 13
+Training : 2.806 1403
+Testing : 2.62 262
+Epoch : 14
+Training : 2.648 1324
+Testing : 2.56 256
+Epoch : 15
+Training : 2.448 1224
+Testing : 2.46 246
+Epoch : 16
+Training : 2.268 1134
+Testing : 2.32 232
+Epoch : 17
+Training : 2.12 1060
+Testing : 2.13 213
+Epoch : 18
+Training : 2.01 1005
+Testing : 2.05 205
+Epoch : 19
+Training : 1.896 948
+Testing : 2.0 200
+Epoch : 20
+Training : 1.792 896
+Testing : 1.91 191
+Epoch : 21
+Training : 1.708 854
+Testing : 1.84 184
+Epoch : 22
+Training : 1.656 828
+Testing : 1.81 181
+Epoch : 23
+Training : 1.6 800
+Testing : 1.73 173
+Epoch : 24
+Training : 1.578 789
+Testing : 1.67 167
+Epoch : 25
+Training : 1.53 765
+Testing : 1.65 165
+Epoch : 26
+Training : 1.47 735
+Testing : 1.65 165
+Epoch : 27
+Training : 1.424 712
+Testing : 1.59 159
+Epoch : 28
+Training : 1.396 698
+Testing : 1.55 155
+Epoch : 29
+Training : 1.37 685
+Testing : 1.57 157
+Epoch : 30
+Training : 1.342 671
+Testing : 1.57 157
+Epoch : 31
+Training : 1.306 653
+Testing : 1.58 158

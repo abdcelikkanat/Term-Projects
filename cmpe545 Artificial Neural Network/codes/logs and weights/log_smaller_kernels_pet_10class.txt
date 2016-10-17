@@ -1,0 +1,902 @@
+The total number of training images in the dataset : 6900
+The total number of test images in the dataset : 1600
+Epoch : 1
+Training : 89.3623188406 6166
+Testing : 88.75 1420
+Epoch : 2
+Training : 89.3623188406 6166
+Testing : 88.75 1420
+Epoch : 3
+Training : 89.3623188406 6166
+Testing : 88.75 1420
+Epoch : 4
+Training : 89.3623188406 6166
+Testing : 88.75 1420
+Epoch : 5
+Training : 89.3623188406 6166
+Testing : 88.75 1420
+Epoch : 6
+Training : 89.3623188406 6166
+Testing : 88.75 1420
+Epoch : 7
+Training : 89.3623188406 6166
+Testing : 88.75 1420
+Epoch : 8
+Training : 89.3623188406 6166
+Testing : 88.75 1420
+Epoch : 9
+Training : 89.3623188406 6166
+Testing : 88.75 1420
+Epoch : 10
+Training : 89.3623188406 6166
+Testing : 88.75 1420
+Epoch : 11
+Training : 89.3623188406 6166
+Testing : 88.75 1420
+Epoch : 12
+Training : 89.3623188406 6166
+Testing : 88.75 1420
+Epoch : 13
+Training : 89.3623188406 6166
+Testing : 88.75 1420
+Epoch : 14
+Training : 89.3623188406 6166
+Testing : 88.75 1420
+Epoch : 15
+Training : 89.3623188406 6166
+Testing : 88.75 1420
+Epoch : 16
+Training : 89.3623188406 6166
+Testing : 88.75 1420
+Epoch : 17
+Training : 89.3623188406 6166
+Testing : 88.75 1420
+Epoch : 18
+Training : 89.3623188406 6166
+Testing : 88.75 1420
+Epoch : 19
+Training : 89.3623188406 6166
+Testing : 88.75 1420
+Epoch : 20
+Training : 89.3623188406 6166
+Testing : 88.75 1420
+Epoch : 21
+Training : 89.3623188406 6166
+Testing : 88.75 1420
+Epoch : 22
+Training : 89.3623188406 6166
+Testing : 88.75 1420
+Epoch : 23
+Training : 89.3623188406 6166
+Testing : 88.75 1420
+Epoch : 24
+Training : 89.3623188406 6166
+Testing : 88.75 1420
+Epoch : 25
+Training : 89.3623188406 6166
+Testing : 88.75 1420
+Epoch : 26
+Training : 89.3623188406 6166
+Testing : 88.75 1420
+Epoch : 27
+Training : 89.3623188406 6166
+Testing : 88.75 1420
+Epoch : 28
+Training : 89.3623188406 6166
+Testing : 88.75 1420
+Epoch : 29
+Training : 89.3623188406 6166
+Testing : 88.75 1420
+Epoch : 30
+Training : 89.3623188406 6166
+Testing : 88.75 1420
+Epoch : 31
+Training : 89.3623188406 6166
+Testing : 88.75 1420
+Epoch : 32
+Training : 89.3623188406 6166
+Testing : 88.75 1420
+Epoch : 33
+Training : 89.3623188406 6166
+Testing : 88.75 1420
+Epoch : 34
+Training : 89.3623188406 6166
+Testing : 88.75 1420
+Epoch : 35
+Training : 89.3623188406 6166
+Testing : 88.75 1420
+Epoch : 36
+Training : 89.3623188406 6166
+Testing : 88.75 1420
+Epoch : 37
+Training : 89.3623188406 6166
+Testing : 88.75 1420
+Epoch : 38
+Training : 89.3623188406 6166
+Testing : 88.75 1420
+Epoch : 39
+Training : 89.3623188406 6166
+Testing : 88.75 1420
+Epoch : 40
+Training : 89.3623188406 6166
+Testing : 88.75 1420
+Epoch : 41
+Training : 89.3623188406 6166
+Testing : 88.75 1420
+Epoch : 42
+Training : 89.3623188406 6166
+Testing : 88.75 1420
+Epoch : 43
+Training : 89.3623188406 6166
+Testing : 88.75 1420
+Epoch : 44
+Training : 89.3623188406 6166
+Testing : 88.75 1420
+Epoch : 45
+Training : 89.3623188406 6166
+Testing : 88.75 1420
+Epoch : 46
+Training : 89.3623188406 6166
+Testing : 88.75 1420
+Epoch : 47
+Training : 89.3623188406 6166
+Testing : 88.75 1420
+Epoch : 48
+Training : 89.3043478261 6162
+Testing : 88.75 1420
+Epoch : 49
+Training : 88.2463768116 6089
+Testing : 88.125 1410
+Epoch : 50
+Training : 86.0579710145 5938
+Testing : 86.6875 1387
+Epoch : 51
+Training : 87.1884057971 6016
+Testing : 87.0625 1393
+Epoch : 52
+Training : 87.3043478261 6024
+Testing : 87.25 1396
+Epoch : 53
+Training : 88.5507246377 6110
+Testing : 88.75 1420
+Epoch : 54
+Training : 86.9855072464 6002
+Testing : 85.125 1362
+Epoch : 55
+Training : 85.6231884058 5908
+Testing : 83.9375 1343
+Epoch : 56
+Training : 84.0579710145 5800
+Testing : 83.0625 1329
+Epoch : 57
+Training : 82.8550724638 5717
+Testing : 83.375 1334
+Epoch : 58
+Training : 82.3768115942 5684
+Testing : 83.1875 1331
+Epoch : 59
+Training : 81.5797101449 5629
+Testing : 82.0 1312
+Epoch : 60
+Training : 80.7246376812 5570
+Testing : 80.625 1290
+Epoch : 61
+Training : 79.7536231884 5503
+Testing : 80.3125 1285
+Epoch : 62
+Training : 79.2753623188 5470
+Testing : 79.75 1276
+Epoch : 63
+Training : 79.0289855072 5453
+Testing : 77.75 1244
+Epoch : 64
+Training : 78.2463768116 5399
+Testing : 77.4375 1239
+Epoch : 65
+Training : 77.5217391304 5349
+Testing : 77.25 1236
+Epoch : 66
+Training : 77.2028985507 5327
+Testing : 77.125 1234
+Epoch : 67
+Training : 76.6811594203 5291
+Testing : 77.5625 1241
+Epoch : 68
+Training : 76.115942029 5252
+Testing : 77.4375 1239
+Epoch : 69
+Training : 75.9420289855 5240
+Testing : 77.375 1238
+Epoch : 70
+Training : 75.5507246377 5213
+Testing : 77.8125 1245
+Epoch : 71
+Training : 74.9420289855 5171
+Testing : 77.875 1246
+Epoch : 72
+Training : 74.9710144928 5173
+Testing : 78.0625 1249
+Epoch : 73
+Training : 74.7971014493 5161
+Testing : 78.125 1250
+Epoch : 74
+Training : 74.3768115942 5132
+Testing : 78.1875 1251
+Epoch : 75
+Training : 73.9130434783 5100
+Testing : 77.6875 1243
+Epoch : 76
+Training : 73.4202898551 5066
+Testing : 77.1875 1235
+Epoch : 77
+Training : 72.8260869565 5025
+Testing : 76.9375 1231
+Epoch : 78
+Training : 72.4057971014 4996
+Testing : 76.8125 1229
+Epoch : 79
+Training : 71.884057971 4960
+Testing : 77.25 1236
+Epoch : 80
+Training : 71.3043478261 4920
+Testing : 77.125 1234
+Epoch : 81
+Training : 70.8260869565 4887
+Testing : 77.125 1234
+Epoch : 82
+Training : 70.1449275362 4840
+Testing : 77.375 1238
+Epoch : 83
+Training : 69.768115942 4814
+Testing : 77.0625 1233
+Epoch : 84
+Training : 69.4347826087 4791
+Testing : 76.9375 1231
+Epoch : 85
+Training : 68.1304347826 4701
+Testing : 76.9375 1231
+Epoch : 86
+Training : 67.4057971014 4651
+Testing : 76.625 1226
+Epoch : 87
+Training : 66.5072463768 4589
+Testing : 76.625 1226
+Epoch : 88
+Training : 65.5942028986 4526
+Testing : 76.8125 1229
+Epoch : 89
+Training : 64.9130434783 4479
+Testing : 76.6875 1227
+Epoch : 90
+Training : 63.9420289855 4412
+Testing : 76.875 1230
+Epoch : 91
+Training : 63.0289855072 4349
+Testing : 77.4375 1239
+Epoch : 92
+Training : 62.0869565217 4284
+Testing : 77.625 1242
+Epoch : 93
+Training : 61.4782608696 4242
+Testing : 77.8125 1245
+Epoch : 94
+Training : 61.1014492754 4216
+Testing : 78.4375 1255
+Epoch : 95
+Training : 60.4782608696 4173
+Testing : 77.5 1240
+Epoch : 96
+Training : 59.8985507246 4133
+Testing : 77.625 1242
+Epoch : 97
+Training : 59.0869565217 4077
+Testing : 77.125 1234
+Epoch : 98
+Training : 58.3768115942 4028
+Testing : 76.9375 1231
+Epoch : 99
+Training : 57.8550724638 3992
+Testing : 76.25 1220
+Epoch : 100
+Training : 57.1594202899 3944
+Testing : 76.0625 1217
+Epoch : 101
+Training : 56.231884058 3880
+Testing : 75.625 1210
+Epoch : 102
+Training : 55.4492753623 3826
+Testing : 76.25 1220
+Epoch : 103
+Training : 54.884057971 3787
+Testing : 76.4375 1223
+Epoch : 104
+Training : 55.2173913043 3810
+Testing : 76.6875 1227
+Epoch : 105
+Training : 51.8260869565 3576
+Testing : 75.625 1210
+Epoch : 106
+Training : 50.7101449275 3499
+Testing : 74.9375 1199
+Epoch : 107
+Training : 49.8985507246 3443
+Testing : 75.0625 1201
+Epoch : 108
+Training : 47.5507246377 3281
+Testing : 74.6875 1195
+Epoch : 109
+Training : 45.9565217391 3171
+Testing : 75.0 1200
+Epoch : 110
+Training : 48.8695652174 3372
+Testing : 76.25 1220
+Epoch : 111
+Training : 43.0579710145 2971
+Testing : 75.0625 1201
+Epoch : 112
+Training : 42.8985507246 2960
+Testing : 74.125 1186
+Epoch : 113
+Training : 41.3188405797 2851
+Testing : 74.25 1188
+Epoch : 114
+Training : 40.5942028986 2801
+Testing : 74.9375 1199
+Epoch : 115
+Training : 39.3913043478 2718
+Testing : 73.375 1174
+Epoch : 116
+Training : 38.231884058 2638
+Testing : 74.5625 1193
+Epoch : 117
+Training : 37.7826086957 2607
+Testing : 74.3125 1189
+Epoch : 118
+Training : 35.8695652174 2475
+Testing : 74.125 1186
+Epoch : 119
+Training : 35.9710144928 2482
+Testing : 74.3125 1189
+Epoch : 120
+Training : 38.5942028986 2663
+Testing : 74.5 1192
+Epoch : 121
+Training : 34.8985507246 2408
+Testing : 72.9375 1167
+Epoch : 122
+Training : 35.347826087 2439
+Testing : 75.5 1208
+Epoch : 123
+Training : 35.9275362319 2479
+Testing : 74.5625 1193
+Epoch : 124
+Training : 33.9420289855 2342
+Testing : 74.9375 1199
+Epoch : 125
+Training : 33.3188405797 2299
+Testing : 72.9375 1167
+Epoch : 126
+Training : 34.6231884058 2389
+Testing : 74.3125 1189
+Epoch : 127
+Training : 31.4927536232 2173
+Testing : 73.5 1176
+Epoch : 128
+Training : 33.0579710145 2281
+Testing : 73.8125 1181
+Epoch : 129
+Training : 35.884057971 2476
+Testing : 74.0625 1185
+Epoch : 130
+Training : 33.4347826087 2307
+Testing : 76.5 1224
+Epoch : 131
+Training : 26.5797101449 1834
+Testing : 75.125 1202
+Epoch : 132
+Training : 30.2753623188 2089
+Testing : 74.1875 1187
+Epoch : 133
+Training : 29.5797101449 2041
+Testing : 75.5625 1209
+Epoch : 134
+Training : 34.9855072464 2414
+Testing : 76.0625 1217
+Epoch : 135
+Training : 26.9710144928 1861
+Testing : 74.5 1192
+Epoch : 136
+Training : 24.3623188406 1681
+Testing : 75.3125 1205
+Epoch : 137
+Training : 28.2463768116 1949
+Testing : 76.3125 1221
+Epoch : 138
+Training : 27.3188405797 1885
+Testing : 75.75 1212
+Epoch : 139
+Training : 26.3333333333 1817
+Testing : 75.3125 1205
+Epoch : 140
+Training : 27.4202898551 1892
+Testing : 75.875 1214
+Epoch : 141
+Training : 47.5217391304 3279
+Testing : 79.875 1278
+Epoch : 142
+Training : 21.0144927536 1450
+Testing : 75.5 1208
+Epoch : 143
+Training : 21.3188405797 1471
+Testing : 74.8125 1197
+Epoch : 144
+Training : 22.5507246377 1556
+Testing : 74.5625 1193
+Epoch : 145
+Training : 19.6956521739 1359
+Testing : 75.8125 1213
+Epoch : 146
+Training : 21.1449275362 1459
+Testing : 75.5 1208
+Epoch : 147
+Training : 36.231884058 2500
+Testing : 78.3125 1253
+Epoch : 148
+Training : 22.768115942 1571
+Testing : 75.5 1208
+Epoch : 149
+Training : 17.8695652174 1233
+Testing : 76.3125 1221
+Epoch : 150
+Training : 22.231884058 1534
+Testing : 75.125 1202
+Epoch : 151
+Training : 17.652173913 1218
+Testing : 75.8125 1213
+Epoch : 152
+Training : 19.0724637681 1316
+Testing : 76.875 1230
+Epoch : 153
+Training : 39.0579710145 2695
+Testing : 78.5 1256
+Epoch : 154
+Training : 15.9710144928 1102
+Testing : 75.875 1214
+Epoch : 155
+Training : 19.2753623188 1330
+Testing : 74.4375 1191
+Epoch : 156
+Training : 17.347826087 1197
+Testing : 75.5625 1209
+Epoch : 157
+Training : 19.3768115942 1337
+Testing : 75.3125 1205
+Epoch : 158
+Training : 15.4202898551 1064
+Testing : 76.6875 1227
+Epoch : 159
+Training : 13.0 897
+Testing : 76.75 1228
+Epoch : 160
+Training : 17.3333333333 1196
+Testing : 76.25 1220
+Epoch : 161
+Training : 17.884057971 1234
+Testing : 76.1875 1219
+Epoch : 162
+Training : 12.6231884058 871
+Testing : 77.375 1238
+Epoch : 163
+Training : 14.652173913 1011
+Testing : 77.5625 1241
+Epoch : 164
+Training : 12.9420289855 893
+Testing : 77.375 1238
+Epoch : 165
+Training : 11.7971014493 814
+Testing : 77.0 1232
+Epoch : 166
+Training : 10.5507246377 728
+Testing : 77.375 1238
+Epoch : 167
+Training : 11.5652173913 798
+Testing : 77.9375 1247
+Epoch : 168
+Training : 27.4347826087 1893
+Testing : 77.875 1246
+Epoch : 169
+Training : 13.5652173913 936
+Testing : 76.9375 1231
+Epoch : 170
+Training : 15.2898550725 1055
+Testing : 78.375 1254
+Epoch : 171
+Training : 9.57971014493 661
+Testing : 77.1875 1235
+Epoch : 172
+Training : 9.60869565217 663
+Testing : 77.5 1240
+Epoch : 173
+Training : 8.31884057971 574
+Testing : 77.1875 1235
+Epoch : 174
+Training : 7.33333333333 506
+Testing : 77.5 1240
+Epoch : 175
+Training : 7.55072463768 521
+Testing : 77.9375 1247
+Epoch : 176
+Training : 6.5652173913 453
+Testing : 77.625 1242
+Epoch : 177
+Training : 6.0 414
+Testing : 77.3125 1237
+Epoch : 178
+Training : 5.4347826087 375
+Testing : 77.3125 1237
+Epoch : 179
+Training : 5.0 345
+Testing : 77.125 1234
+Epoch : 180
+Training : 4.5652173913 315
+Testing : 77.375 1238
+Epoch : 181
+Training : 4.11594202899 284
+Testing : 77.4375 1239
+Epoch : 182
+Training : 3.69565217391 255
+Testing : 77.5625 1241
+Epoch : 183
+Training : 3.44927536232 238
+Testing : 77.1875 1235
+Epoch : 184
+Training : 3.13043478261 216
+Testing : 77.3125 1237
+Epoch : 185
+Training : 2.85507246377 197
+Testing : 77.25 1236
+Epoch : 186
+Training : 2.39130434783 165
+Testing : 77.375 1238
+Epoch : 187
+Training : 2.21739130435 153
+Testing : 77.375 1238
+Epoch : 188
+Training : 2.07246376812 143
+Testing : 77.25 1236
+Epoch : 189
+Training : 1.76811594203 122
+Testing : 77.375 1238
+Epoch : 190
+Training : 1.5652173913 108
+Testing : 77.375 1238
+Epoch : 191
+Training : 1.31884057971 91
+Testing : 77.5625 1241
+Epoch : 192
+Training : 1.10144927536 76
+Testing : 77.5625 1241
+Epoch : 193
+Training : 1.02898550725 71
+Testing : 77.5625 1241
+Epoch : 194
+Training : 0.884057971014 61
+Testing : 77.5 1240
+Epoch : 195
+Training : 0.782608695652 54
+Testing : 77.5 1240
+Epoch : 196
+Training : 0.666666666667 46
+Testing : 77.6875 1243
+Epoch : 197
+Training : 0.521739130435 36
+Testing : 77.6875 1243
+Epoch : 198
+Training : 0.420289855072 29
+Testing : 77.6875 1243
+Epoch : 199
+Training : 0.376811594203 26
+Testing : 77.6875 1243
+Epoch : 200
+Training : 0.304347826087 21
+Testing : 77.625 1242
+Epoch : 201
+Training : 0.275362318841 19
+Testing : 77.625 1242
+Epoch : 202
+Training : 0.260869565217 18
+Testing : 77.75 1244
+Epoch : 203
+Training : 0.231884057971 16
+Testing : 77.8125 1245
+Epoch : 204
+Training : 0.202898550725 14
+Testing : 77.8125 1245
+Epoch : 205
+Training : 0.188405797101 13
+Testing : 77.6875 1243
+Epoch : 206
+Training : 0.144927536232 10
+Testing : 77.6875 1243
+Epoch : 207
+Training : 0.130434782609 9
+Testing : 77.75 1244
+Epoch : 208
+Training : 0.101449275362 7
+Testing : 77.75 1244
+Epoch : 209
+Training : 0.0579710144928 4
+Testing : 77.6875 1243
+Epoch : 210
+Training : 0.0434782608696 3
+Testing : 77.75 1244
+Epoch : 211
+Training : 0.0434782608696 3
+Testing : 77.75 1244
+Epoch : 212
+Training : 0.0434782608696 3
+Testing : 77.8125 1245
+Epoch : 213
+Training : 0.0434782608696 3
+Testing : 77.875 1246
+Epoch : 214
+Training : 0.0289855072464 2
+Testing : 77.8125 1245
+Epoch : 215
+Training : 0.0144927536232 1
+Testing : 77.8125 1245
+Epoch : 216
+Training : 0.0144927536232 1
+Testing : 77.8125 1245
+Epoch : 217
+Training : 0.0144927536232 1
+Testing : 77.75 1244
+Epoch : 218
+Training : 0.0144927536232 1
+Testing : 77.75 1244
+Epoch : 219
+Training : 0.0144927536232 1
+Testing : 77.625 1242
+Epoch : 220
+Training : 0.0 0
+Testing : 77.625 1242
+Epoch : 221
+Training : 0.0 0
+Testing : 77.625 1242
+Epoch : 222
+Training : 0.0 0
+Testing : 77.625 1242
+Epoch : 223
+Training : 0.0 0
+Testing : 77.75 1244
+Epoch : 224
+Training : 0.0 0
+Testing : 77.8125 1245
+Epoch : 225
+Training : 0.0 0
+Testing : 77.8125 1245
+Epoch : 226
+Training : 0.0 0
+Testing : 77.75 1244
+Epoch : 227
+Training : 0.0 0
+Testing : 77.75 1244
+Epoch : 228
+Training : 0.0 0
+Testing : 77.8125 1245
+Epoch : 229
+Training : 0.0 0
+Testing : 77.8125 1245
+Epoch : 230
+Training : 0.0 0
+Testing : 77.8125 1245
+Epoch : 231
+Training : 0.0 0
+Testing : 77.8125 1245
+Epoch : 232
+Training : 0.0 0
+Testing : 77.8125 1245
+Epoch : 233
+Training : 0.0 0
+Testing : 77.8125 1245
+Epoch : 234
+Training : 0.0 0
+Testing : 77.6875 1243
+Epoch : 235
+Training : 0.0 0
+Testing : 77.75 1244
+Epoch : 236
+Training : 0.0 0
+Testing : 77.6875 1243
+Epoch : 237
+Training : 0.0 0
+Testing : 77.6875 1243
+Epoch : 238
+Training : 0.0 0
+Testing : 77.6875 1243
+Epoch : 239
+Training : 0.0 0
+Testing : 77.625 1242
+Epoch : 240
+Training : 0.0 0
+Testing : 77.625 1242
+Epoch : 241
+Training : 0.0 0
+Testing : 77.6875 1243
+Epoch : 242
+Training : 0.0 0
+Testing : 77.6875 1243
+Epoch : 243
+Training : 0.0 0
+Testing : 77.6875 1243
+Epoch : 244
+Training : 0.0 0
+Testing : 77.625 1242
+Epoch : 245
+Training : 0.0 0
+Testing : 77.625 1242
+Epoch : 246
+Training : 0.0 0
+Testing : 77.625 1242
+Epoch : 247
+Training : 0.0 0
+Testing : 77.6875 1243
+Epoch : 248
+Training : 0.0 0
+Testing : 77.6875 1243
+Epoch : 249
+Training : 0.0 0
+Testing : 77.6875 1243
+Epoch : 250
+Training : 0.0 0
+Testing : 77.6875 1243
+Epoch : 251
+Training : 0.0 0
+Testing : 77.6875 1243
+Epoch : 252
+Training : 0.0 0
+Testing : 77.6875 1243
+Epoch : 253
+Training : 0.0 0
+Testing : 77.6875 1243
+Epoch : 254
+Training : 0.0 0
+Testing : 77.6875 1243
+Epoch : 255
+Training : 0.0 0
+Testing : 77.75 1244
+Epoch : 256
+Training : 0.0 0
+Testing : 77.75 1244
+Epoch : 257
+Training : 0.0 0
+Testing : 77.75 1244
+Epoch : 258
+Training : 0.0 0
+Testing : 77.75 1244
+Epoch : 259
+Training : 0.0 0
+Testing : 77.75 1244
+Epoch : 260
+Training : 0.0 0
+Testing : 77.75 1244
+Epoch : 261
+Training : 0.0 0
+Testing : 77.6875 1243
+Epoch : 262
+Training : 0.0 0
+Testing : 77.625 1242
+Epoch : 263
+Training : 0.0 0
+Testing : 77.6875 1243
+Epoch : 264
+Training : 0.0 0
+Testing : 77.6875 1243
+Epoch : 265
+Training : 0.0 0
+Testing : 77.6875 1243
+Epoch : 266
+Training : 0.0 0
+Testing : 77.6875 1243
+Epoch : 267
+Training : 0.0 0
+Testing : 77.625 1242
+Epoch : 268
+Training : 0.0 0
+Testing : 77.625 1242
+Epoch : 269
+Training : 0.0 0
+Testing : 77.625 1242
+Epoch : 270
+Training : 0.0 0
+Testing : 77.625 1242
+Epoch : 271
+Training : 0.0 0
+Testing : 77.625 1242
+Epoch : 272
+Training : 0.0 0
+Testing : 77.625 1242
+Epoch : 273
+Training : 0.0 0
+Testing : 77.625 1242
+Epoch : 274
+Training : 0.0 0
+Testing : 77.625 1242
+Epoch : 275
+Training : 0.0 0
+Testing : 77.5625 1241
+Epoch : 276
+Training : 0.0 0
+Testing : 77.5625 1241
+Epoch : 277
+Training : 0.0 0
+Testing : 77.5625 1241
+Epoch : 278
+Training : 0.0 0
+Testing : 77.5625 1241
+Epoch : 279
+Training : 0.0 0
+Testing : 77.5625 1241
+Epoch : 280
+Training : 0.0 0
+Testing : 77.625 1242
+Epoch : 281
+Training : 0.0 0
+Testing : 77.625 1242
+Epoch : 282
+Training : 0.0 0
+Testing : 77.625 1242
+Epoch : 283
+Training : 0.0 0
+Testing : 77.625 1242
+Epoch : 284
+Training : 0.0 0
+Testing : 77.625 1242
+Epoch : 285
+Training : 0.0 0
+Testing : 77.625 1242
+Epoch : 286
+Training : 0.0 0
+Testing : 77.5625 1241
+Epoch : 287
+Training : 0.0 0
+Testing : 77.5625 1241
+Epoch : 288
+Training : 0.0 0
+Testing : 77.5625 1241
+Epoch : 289
+Training : 0.0 0
+Testing : 77.5625 1241
+Epoch : 290
+Training : 0.0 0
+Testing : 77.5625 1241
+Epoch : 291
+Training : 0.0 0
+Testing : 77.5625 1241
+Epoch : 292
+Training : 0.0 0
+Testing : 77.5625 1241
+Epoch : 293
+Training : 0.0 0
+Testing : 77.5625 1241
+Epoch : 294
+Training : 0.0 0
+Testing : 77.5625 1241
+Epoch : 295
+Training : 0.0 0
+Testing : 77.5 1240
+Epoch : 296
+Training : 0.0 0
+Testing : 77.4375 1239
+Epoch : 297
+Training : 0.0 0
+Testing : 77.4375 1239
+Epoch : 298
+Training : 0.0 0
+Testing : 77.4375 1239
+Epoch : 299
+Training : 0.0 0
+Testing : 77.4375 1239
+Epoch : 300
+Training : 0.0 0
+Testing : 77.4375 1239
